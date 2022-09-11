@@ -1,3 +1,6 @@
-# FlyPlateBuffs-WOTLKC
+# flyPlateBuffs
+flyPlateBuffs fixed for TBC-Classic.
 
-An updated version of FlyPlateBuffs TBCC made by Rippy for WOTLKC : https://github.com/rippywow/flyPlateBuffs
+
+
+Remove the -main once you download it so the folder is read as "flyPlateBuffs"
