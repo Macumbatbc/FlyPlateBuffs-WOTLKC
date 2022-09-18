@@ -1,5 +1,5 @@
 # flyPlateBuffs
-flyPlateBuffs fixed for WOTLK-Classic.
+flyPlateBuffs fixed version for WOTLK-Classic.
 
 # TBC Classic version
 https://github.com/rippywow/flyPlateBuffs
@@ -7,6 +7,17 @@ https://github.com/rippywow/flyPlateBuffs
 # Original
 https://www.curseforge.com/wow/addons/flyplatebuffs
 
+flyPlateBuffs displays buffs/debuffs above nameplates.
+
+"/pb" or "/fpb" to open settings.
+
+# Features
+- It can show specific spells bigger than others.
+- There's predefined list, which contains some defensive and burst buffs, and crowd control debuffs. You can edit this list.
+- Two modes of duration display (on and under icon).
+- Many others display options.
+
+It was inspired by the abandoned PlateBuffs and make this addon mostly looking like original.
 
 Remove the -main once you download it, the folder name need to be "flyPlateBuffs"
 
