@@ -1,7 +1,12 @@
 # flyPlateBuffs
 flyPlateBuffs fixed for WOTLK-Classic.
 
-TBC Classic version : https://github.com/rippywow/flyPlateBuffs
+# TBC Classic version
+https://github.com/rippywow/flyPlateBuffs
+
+# Original
+https://www.curseforge.com/wow/addons/flyplatebuffs
+
 
 Remove the -main once you download it, the folder name need to be "flyPlateBuffs"
 
