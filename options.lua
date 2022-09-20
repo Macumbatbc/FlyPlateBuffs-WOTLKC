@@ -778,8 +778,8 @@ fPB.MainOptionTable = {
 					name = L["Nameplate visible distance"],
 					desc = L["Changes CVar \"nameplateMaxDistance\".\nLegion default = 60. Old default = 40."],
 					min = 20,
-					max = 100,
-					step = 5,
+					max = 45,
+					step = 1,
 					get = function(info)
 						return db.nameplateMaxDistance or tonumber(GetCVar("nameplateMaxDistance"))
 					end,
