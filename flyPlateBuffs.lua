@@ -389,7 +389,7 @@ local function iconOnUpdate(self, elapsed)
 				if f > 0.5 then
 					f = 1 - f
 				end
-				self:SetAlpha(f * 2)
+				self:SetAlpha(math.min(math.max(f * 3, 0), 1))
 			end
 			if db.showTooltip and tooltip:IsShown() then
 				tooltip:SetUnitAura(self:GetParent():GetParent().namePlateUnitToken, self.id, self.type)
